@@ -4,10 +4,13 @@
 
    ```bash
    git clone https://github.com/your-username/password-manager.git
-
 2.**Start Server:**
 
-  '''bash
+  ```bash
   npm run dev
-  '''bash
-  node --watch ./backend/server.js
+   ```
+ for backend :
+ ```bash
+    cd backend
+    node server.js
+  
