@@ -7,6 +7,7 @@
 2.**Start Server:**
 
   ```bash
+  npm i
   npm run dev
    ```
  for backend :
